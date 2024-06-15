@@ -1,6 +1,6 @@
 # HR Chatbot
 
-Welcome to the FutureTech Solutions HR Chatbot repository! This project is designed to streamline HR inquiries for employees by leveraging the power of OpenAI's API and Streamlit for a user-friendly web application.
+Welcome to the HR Chatbot repository! This project is designed to streamline HR inquiries for employees by leveraging the power of OpenAI's API and Streamlit for a user-friendly web application.
 
 ## Table of Contents
 
