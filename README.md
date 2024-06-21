@@ -38,8 +38,8 @@ The FutureTech Solutions HR Chatbot is an AI-powered assistant designed to help 
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/hr-chatbot.git
-    cd hr-chatbot
+    git clone https://github.com/rajikudusadewale/hr-chatbot.git
+    cd HR-chatbot
     ```
 
 2. **Create a virtual environment**
@@ -50,7 +50,7 @@ The FutureTech Solutions HR Chatbot is an AI-powered assistant designed to help 
 
 3. **Install dependencies**
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements
     ```
 
 4. **Set up environment variables**
