@@ -1,0 +1,74 @@
+FutureTech Solutions Payroll Policies and Procedures
+
+Pay Frequency and Payday
+1.1 Pay Frequency
+FutureTech Solutions pays employees on a semi-monthly basis, with paydays falling on the 15th and the last day of each month. If a payday falls on a weekend or holiday, employees will be paid on the preceding business day.
+1.2 Pay Period
+The first pay period of the month covers work performed from the 1st through the 15th, and the second pay period covers work performed from the 16th through the last day of the month.
+Payment Methods
+2.1 Direct Deposit
+FutureTech Solutions encourages all employees to enroll in direct deposit for their payroll payments. Direct deposit ensures that funds are available in the employee's designated bank account on payday. Employees can enroll or update their direct deposit information through the company's payroll system.
+2.2 Physical Paycheck
+Employees who do not enroll in direct deposit will receive a physical paycheck on payday. Paychecks will be mailed to the employee's address on file or made available for pick-up at the designated location.
+Payroll Deductions
+3.1 Required Deductions
+FutureTech Solutions withholds the following required deductions from employees' paychecks:
+
+Federal income tax
+State income tax (where applicable)
+Local income tax (where applicable)
+Social Security tax (FICA)
+Medicare tax
+Court-ordered wage garnishments (e.g., child support, student loans, bankruptcy)
+
+3.2 Voluntary Deductions
+Employees may authorize additional voluntary deductions from their paychecks, such as:
+
+Health, dental, and vision insurance premiums
+401(k) contributions
+Flexible Spending Account (FSA) contributions
+Health Savings Account (HSA) contributions
+Life and disability insurance premiums
+Charitable donations
+Employee stock purchase plan (ESPP) contributions
+
+3.3 Pre-Tax and Post-Tax Deductions
+Some deductions, such as 401(k) contributions and health insurance premiums, are taken on a pre-tax basis, reducing the employee's taxable income. Other deductions, such as charitable donations and life insurance premiums, are taken on a post-tax basis.
+Timekeeping and Overtime
+4.1 Timekeeping System
+Non-exempt employees must accurately record their hours worked each day using the company's timekeeping system. Employees should clock in at the beginning of their shift and clock out at the end of their shift, including meal breaks.
+4.2 Overtime
+Non-exempt employees who work more than 40 hours in a workweek will receive overtime pay at a rate of 1.5 times their regular hourly rate for all hours worked over 40. Overtime must be approved in advance by the employee's manager.
+4.3 Meal and Rest Breaks
+Non-exempt employees are provided with a 30-minute unpaid meal break for shifts lasting longer than 6 hours and a 10-minute paid rest break for every 4 hours worked. Employees must take their required breaks and accurately record their break times in the timekeeping system.
+Payroll Processing and Deadlines
+5.1 Timesheet Submission
+Non-exempt employees must submit their completed timesheets by noon on the Monday following the end of each pay period. Managers must review and approve timesheets by 5:00 p.m. on the same day.
+5.2 Payroll Processing
+The Payroll department will process payroll on Tuesday and Wednesday of payroll week, ensuring that payments are available to employees by payday.
+5.3 Payroll Corrections
+If an employee identifies an error in their paycheck, they should notify their manager and the Payroll department immediately. Payroll corrections will be processed with the next regularly scheduled payroll, unless otherwise required by law.
+Payroll Taxes and Reporting
+6.1 W-4 Forms
+Employees must complete a W-4 form upon hire and whenever they wish to change their tax withholding elections. The W-4 form determines the amount of federal income tax withheld from an employee's paycheck based on their filing status and number of allowances claimed.
+6.2 W-2 Forms
+FutureTech Solutions will provide employees with a W-2 form by January 31st of each year, summarizing their earnings and payroll deductions for the previous calendar year. W-2 forms will be mailed to the employee's address on file or made available electronically through the payroll system.
+6.3 State and Local Tax Requirements
+FutureTech Solutions will comply with all state and local tax reporting and filing requirements, including the issuance of state-specific W-2 forms and the payment of state unemployment insurance taxes.
+Payroll Policies
+7.1 Payroll Advances
+FutureTech Solutions does not provide payroll advances or loans to employees.
+7.2 Final Pay
+Employees who separate from the company will receive their final pay on the next regularly scheduled payday, unless otherwise required by state law. Final pay will include all wages earned through the last day of employment, as well as any accrued but unused PTO that is eligible for payout under company policy.
+7.3 Unclaimed Paychecks
+If an employee fails to claim or cash their paycheck within 90 days of issuance, FutureTech Solutions will attempt to contact the employee using their last known contact information. If the employee cannot be reached, the unclaimed funds will be remitted to the appropriate state agency as required by unclaimed property laws.
+Payroll Confidentiality and Security
+8.1 Confidentiality
+Payroll information, including employee salaries, deductions, and bank account information, is considered confidential and will only be accessed by authorized personnel for legitimate business purposes. Employees who have access to payroll information must maintain the confidentiality of this information and not disclose it to others.
+8.2 Data Security
+FutureTech Solutions will maintain appropriate physical, technical, and administrative safeguards to protect the security and integrity of payroll data. Access to payroll systems will be restricted to authorized personnel, and all data will be encrypted in transit and at rest.
+Payroll Inquiries and Resources
+9.1 Employee Self-Service
+Employees can access their pay stubs, W-2 forms, and other payroll-related information through the company's employee self-service portal. The portal allows employees to update their personal information, direct deposit details, and tax withholding elections.
+9.2 Payroll Contact
+Employees with questions or concerns about their paycheck or payroll deductions should contact the Payroll department at payroll@futuretechsolutions.com or 555-123-4567. Payroll representatives are available Monday through Friday, 9:00 a.m. to 5:00 p.m. EST.
