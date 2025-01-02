@@ -29,10 +29,10 @@ def create_and_upload_vector_store(store_name, file_paths):
     return vector_store.id
 
 # IDs for the knowledge base files
-company_policies_vector_store_id = create_and_upload_vector_store("Company Policies", ["base/company_policies.txt"])
-employee_benefits_vector_store_id = create_and_upload_vector_store("Employee Benefits", ["base/employee_benefits.txt"])
-leave_request_vector_store_id = create_and_upload_vector_store("Leave Requests", ["base/leave_request.txt"])
-payroll_vector_store_id = create_and_upload_vector_store("Payroll", ["base/payroll.txt"])
+company_policies_vector_store_id = create_and_upload_vector_store("Company Policies", ["company_policies.txt"])
+employee_benefits_vector_store_id = create_and_upload_vector_store("Employee Benefits", ["employee_benefits.txt"])
+leave_request_vector_store_id = create_and_upload_vector_store("Leave Requests", ["leave_request.txt"])
+payroll_vector_store_id = create_and_upload_vector_store("Payroll", ["payroll.txt"])
 
 # Create and Update Assistants with Vector Stores and Detailed Instructions
 assistants = {
